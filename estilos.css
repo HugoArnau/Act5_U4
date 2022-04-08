@@ -1,0 +1,60 @@
+:root{
+    --historia: blue;
+    --Valen: red;
+    --Inglés:green;
+    --Mates:yellow;
+    --Bio:orange;
+    --tecno:rgba(243, 226, 179, 0.753);
+    --FiQ:turquoise;
+    --infor:#b824bf;
+    --ef:#be609f;
+    --tutoria:#5a5608;
+    --valors:#2c8767;
+    --caste:#631e08;
+}
+
+.historia{
+    background-color: var(--historia);
+    width: 50px;
+}
+.Valen{
+    background-color: var(--Valen);
+    width: 50px;
+}
+.Inglés{
+    background-color: var(--Inglés);
+    width: 50px;
+}
+.Mates{
+    background-color:var(--Mates) ;
+    width: 50px;
+}
+.Bio{
+    background-color:var(--Bio);
+}
+.tecno{
+    background-color: var(--tecno);
+    width: 50px;
+}
+.FiQ{
+    background-color: var(--FiQ);
+    width: 50px;
+}
+.infor{
+    background-color:var(--infor);
+    width: 50px;
+}
+.ef{
+    background-color: var(--ef);
+}
+.tutoria{
+    background-color: var(--tutoria);
+}
+.valors{
+    background-color: var(--valors);
+}
+.caste{
+    background-color: var(--caste);
+}
+
+
